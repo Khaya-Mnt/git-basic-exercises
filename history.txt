@@ -1,0 +1,184 @@
+    1  pwd
+    2  cd ~ 
+    3  pwd
+    4  cd ..
+    5  pwd
+    6  ls
+    7  cd User
+    8  ls
+    9  cd Desktop
+   10  cd git-basic-exercises
+   11  pwd
+   12  git init
+   13  git log
+   14  git status
+   15  git add
+   16  git add.
+   17  git add .
+   18  git status
+   19  pwd
+   20  touch README.md
+   21  ls
+   22  git log
+   23  git log.
+   24  git add .
+   25  git status
+   26  git rm --cached <file>...
+   27  git rm --cached <README.md>...
+   28  README.md
+   29  git reset README.md
+   30  git status
+   31  touch README.md
+   32  git status
+   33  git add .
+   34  touch README.md
+   35  ls
+   36  git add .
+   37  git add .
+   38  git status
+   39  git add
+   40  git add .
+   41  pwd
+   42  ls
+   43  git commit -m "initial comit"
+   44  git commit -m "git-basic-exercises push to github"
+   45  git config -- khayamntande@gmail.com
+   46  git config --global user.khayamntande@gmail.com
+   47  git status
+   48  git add .
+   49  git status
+   50  git status
+   51  git add <README.md>...
+   52  git add .
+   53  git add ...
+   54  git add README.md...
+   55  giti add README.md.
+   56  git add README.md .
+   57  git init
+   58  git commit -m "initial commit"
+   59  git config -- khayamntande@gmail.com
+   60  git config -- "khayamntande@gmail.com"
+   61  git push -u -f origin master
+   62  cd Desktop
+   63  cd ..
+   64  ls
+   65  cd Desktop
+   66  git checkout main
+   67  ls
+   68  git clone https://github.com/Umuzi-org/Emanuel-Mntande-219-level-1-programming-katas-javascript.git
+   69  git checkout -b main
+   70  git ls
+   71  git checkout main
+   72  git status
+   73  git init
+   74  git status
+   75  git checkout main
+   76  git status
+   77  cd Desktop
+   78  ls
+   79  git status
+   80  git status
+   81  git add task1.js
+   82  git status
+   83  git commit -m "Task/1"
+   84  git push main
+   85  git status
+   86  git push -u origin
+   87  git status
+   88  git clone https://github.com/Umuzi-org/Emanuel-Mntande-219-level-1-programming-katas-javascript.git
+   89  cd desktop
+   90  ls
+   91  cd desktop.ini
+   92  cd desktop
+   93  ls
+   94  ls
+   95  cd residence
+   96  git clone [200~https://github.com/Umuzi-org/Emanuel-Mntande-219-level-1-programming-katas-javascript.git~
+   97  git clone https://github.com/Umuzi-org/Emanuel-Mntande-219-level-1-programming-katas-javascript.git
+   98  .. cd
+   99  ../
+  100  cd ..
+  101  ls
+  102  cd residence
+  103  ls
+  104  cd repository
+  105  git init
+  106  git checkout -b Task/1
+  107  echo "task1 upload" > task1.js
+  108  git add task1.js
+  109  git commit -m "task1 upload"
+  110  git push -u origin Task/1
+  111  git status
+  112  git add .
+  113  git rm --cached Emanuel-Mntande-219-level-1-programming-katas-javascript
+  114  git -f
+  115  if -f;  q; q; q; q; q; q; q; yy; y
+  116  q
+  117  ls
+  118  git remote rmorigin
+  119  git remote rm origin
+  120  git remote rm master
+  121  git remote rm git-basic-exercises
+  122  ld
+  123  ls
+  124  cd Desktop
+  125  ls
+  126  mkdr git-basic-exercises
+  127  mkdir git-basic-exercises
+  128  ls
+  129  cd git-basic-exercises
+  130  ls
+  131  ls -a
+  132  git init
+  133  ls -a
+  134  git status
+  135  touch README.md
+  136  ls -a
+  137  git status
+  138  git log
+  139  git add .
+  140  git status
+  141  git commit -m "initial commit"
+  142  git log
+  143  q
+  144  q
+  145  nano README.md
+  146  cat README.md
+  147  git ststus
+  148  git status
+  149  git commit -m "second commit"
+  150  git add
+  151  git add .
+  152  git status
+  153  git commit -m "second commit"
+  154  cat README.md
+  155  nano README.md
+  156  git add .
+  157  git commit -m "third commit"
+  158  git log
+  159  q
+  160  git checkout 
+  161  cat README.md
+  162  git checkout 7dc658e8b68ac0ee5c305e4ccdf6575ceb7b2097
+  163  cat README.md
+  164  cat README.md
+  165  ls
+  166  git checkout main
+  167  git checkout master
+  168  cat README.md
+  169  git branch
+  170  git checkout milkshake-flavours
+  171  git checkout -b milkshake-flavours
+  172  git branch
+  173  nano milkshakes.md
+  174  git status
+  175  git add .
+  176  git commit -m "added initial flavours"
+  177  git branch
+  178  git checkout master
+  179  git branch -m main
+  180  git branch
+  181  git checkout -b history
+  182  git log
+  183  git branch
+  184  history > history.txt
