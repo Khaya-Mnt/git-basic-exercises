@@ -1,1 +1,1 @@
-This is a good day.
+This is a good day, here's why;
